@@ -1,0 +1,43 @@
+{
+  "name": "mongodb-test-utils",
+  "description": "MongoDB Test Utils",
+  "author": "Durran Jordan <durran@gmail.com>",
+  "bugs": "https://github.com/mongodb-js/test-utils/issues",
+  "homepage": "https://github.com/mongodb-js/test-utils",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mongodb-js/test-utils.git"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "mongodb-js"
+  ],
+  "scripts": {
+    "ci": "npm run check && npm test",
+    "test": "mocha --recursive",
+    "fmt": "mongodb-js-fmt ./*.js ./test/*.js",
+    "check": "mongodb-js-precommit"
+  },
+  "precommit": [
+    "check"
+  ],
+  "dependencies": {
+    "chai": "^3.4.1",
+    "chai-as-promised": "^5.1.0",
+    "eslint-config-mongodb-js": "^1.0.6",
+    "mocha": "^2.3.4",
+    "mongodb-reflux-store": "^0.0.1",
+    "mongodb-data-service": "^0.0.12",
+    "mongodb-js-cli": "^0.0.2",
+    "mongodb-js-fmt": "^0.0.3",
+    "mongodb-js-precommit": "^0.2.8",
+    "mongodb-runner": "^3.1.15",
+    "mongodb-ns": "^1.0.3",
+    "pre-commit": "^1.1.2",
+    "react-addons-test-utils": "^0.14.7"
+  },
+  "devDependencies": {
+    "mongodb-connection-model": "^4.0.2"
+  }
+}
