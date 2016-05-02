@@ -1,10 +1,10 @@
 {
-  "name": "mongodb-test-utils",
-  "description": "MongoDB Test Utils",
+  "name": "hadron-test-utils",
+  "description": "Hadron Test Utils",
   "author": "Durran Jordan <durran@gmail.com>",
   "bugs": "https://github.com/mongodb-js/test-utils/issues",
   "homepage": "https://github.com/mongodb-js/test-utils",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "repository": {
     "type": "git",
     "url": "https://github.com/mongodb-js/test-utils.git"
