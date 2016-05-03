@@ -1,6 +1,6 @@
 # mongodb-test-utils [![][travis_img]][travis_url] [![][npm_img]][npm_url]
 
-> MongoDB Test Utils
+> Hadron Test Utils
 
 ## Installation
 
