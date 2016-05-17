@@ -2,12 +2,12 @@
   "name": "hadron-test-utils",
   "description": "Hadron Test Utils",
   "author": "Durran Jordan <durran@gmail.com>",
-  "bugs": "https://github.com/mongodb-js/test-utils/issues",
-  "homepage": "https://github.com/mongodb-js/test-utils",
-  "version": "0.0.4",
+  "bugs": "https://github.com/mongodb-js/hadron-test-utils/issues",
+  "homepage": "https://github.com/mongodb-js/hadron-test-utils",
+  "version": "0.0.5",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mongodb-js/test-utils.git"
+    "url": "https://github.com/mongodb-js/hadron-test-utils.git"
   },
   "license": "Apache-2.0",
   "keywords": [
