@@ -36,7 +36,7 @@
     "mongodb-js-precommit": "^0.2.8",
     "mongodb-runner": "^3.1.15",
     "mongodb-ns": "^1.0.3",
-    "react-addons-test-utils": "^15.3.2",
+    "react-addons-test-utils": "^15.4.2",
     "spectron": "^3.4.0"
   }
 }
