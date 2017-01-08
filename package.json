@@ -24,7 +24,7 @@
     "debug": "mongodb-js/debug",
     "electron-prebuilt": "^1.4.6",
     "eslint-config-mongodb-js": "^2.2.0",
-    "eslint-plugin-react": "^6.6.0",
+    "eslint-plugin-react": "^6.9.0",
     "lodash": "^4.6.1",
     "mocha": "^3.1.2",
     "mongodb": "^2.1.12",
