@@ -1,3 +1,8 @@
+
+☠️ This was an experimental project and is now superseded in favor of [hadron-spectron](https://github.com/mongodb-js/hadron-spectron).
+
+
+
 # hadron-test-utils [![][travis_img]][travis_url] [![][npm_img]][npm_url]
 
 > Hadron Test Utils
